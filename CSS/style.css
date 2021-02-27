@@ -36,27 +36,20 @@ h1 {
     margin-left: 50px;
     font-family:'Oswald', sans-serif; ;
 }
-
 .rightSide{
-
     /* display: inline-block;  */
     margin-top: 20px; 
 }
-
 .leftSide{
     position: relative;
     left: 760px;
     bottom: 80px;
-
 }
-
 header{
     border-bottom: double;
     border-width: 10px;
     border-color: lightgray;
-
 }
-
 .first{
     font-family: 'Oswald', sans-serif; 
     text-transform: capitalize;
@@ -67,7 +60,6 @@ header{
     font-size: 3px;
     color: lightgray;
     font-family: 'Oswald', sans-serif; 
-
 }
 #big{
     width: 100%;
@@ -87,19 +79,16 @@ h2{
     color: gray;
     text-indent: 1cm;
     font-size: 15px;
-    
 }
 .recipe{
     background-image: url(../img/list-bg.png);
     display:block;
-    
 }
 .table{
     border-bottom: double;
     border-width: 10px;
     border-color: lightgray;
     padding: 40px;
-
 }
 .last img {
     position: relative;
@@ -114,7 +103,6 @@ h2{
     font-size: 20px;
     color:gray;
 }
-
 .last p {
     font-family: 'Oswald', sans-serif;
     color: darkgray;
@@ -152,7 +140,6 @@ footer img{
     right: 15px;
     bottom: 20px;
 }
-
 .one{
     padding-top: 35px;
     padding-left:60px;
@@ -163,7 +150,6 @@ footer img{
     color: gray;
     font-size: 10px;
 }
-
 .two{
     border: none;
     display: grid;
@@ -172,11 +158,9 @@ footer img{
     font-size: 10px;
     padding-top: 35px;
 }
-
 .form{
     display: -webkit-inline-box;
 }
-
 input[type=checkbox]:checked+ label{
     text-decoration: line-through;
 }
